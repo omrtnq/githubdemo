@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #322e2d;
+  columns: #f6f0ee;
+}
+
+#logo {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  margin-top: 2rem;
+}
